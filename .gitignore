@@ -1,0 +1,20 @@
+# Uploads
+/assets/uploads/*
+
+# Dependencies
+/vendor/
+!vendor/.gitkeep
+
+# Konfigurasi
+config/database.php
+.env
+
+# Logs
+*.log
+logs/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
